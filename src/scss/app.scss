@@ -1,0 +1,19 @@
+@import "./variables";
+@import '~antd/dist/antd.css';
+
+body {
+  background: $twilight-blue;
+
+  .ant-layout-header {
+    background: $white;
+    padding: 0 1.53rem;
+    height: 100%;
+    border-bottom: 1px solid $ghost;
+    box-shadow: 0 4px 24px $ghost-shadow;
+    
+    h1 {
+      color: $cabaret;
+      font-weight: 700;
+    }
+  }
+}
