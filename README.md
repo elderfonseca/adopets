@@ -1,7 +1,7 @@
-#Adopets Front-end Test
+# Adopets Front-end Test
 
 The project was created with a login system that requests the _API_ that authenticates the user.
-####Installation
+#### Installation
 
 The following steps assume that _NPM_ is supposed to be installed on the machine.
 If not, see the link [`https://www.npmjs.com/get-npm`](https://www.npmjs.com/get-npm).
